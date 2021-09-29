@@ -130,3 +130,4 @@ dataset/일반상식/02_squad_질문_답변_제시문_말뭉치/ko_wiki_v1_squad
 dataset/일반상식/02_squad_질문_답변_제시문_말뭉치.zip
 dataset/일반상식/01_triples_일반상식(N-Triple형식)/nia_common_triples@180105.nt
 dataset/일반상식/01_triples_일반상식(N-Triple형식).zip
+course_material/imdb_master.csv
